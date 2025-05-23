@@ -1,5 +1,41 @@
-# 💫 About Me:
-I am a M.sc Data Science Student with a strong foundation in Python programming, knowledge of machine learning, and natural language processing. I also have experience in web scraping and SQL. <br><br>As an active learner, I am constantly seeking new opportunities to expand my knowledge and stay updated with the latest developments in the Data Science domain. My passion for this field drives me to take on challenging projects and learn new technologies.💪🏻<br><br>Apart from technical skills, I possess strong soft skills, including attention to detail, quick learning abilities, positive thinking, and excellent communication skills. These qualities enable me to collaborate with cross-functional teams and deliver successful projects effectively.📲<br><br>If you have any opportunities or would like to connect, please get in touch with me. I am always excited to network and learn from like-minded professionals.👍🏻⚡
+# 💫 Personal Summary:
+Who I Am ? 👨🏻
+
+- Data Scientist with hands-on experience in data analysis, predictive modeling, NLP, and machine learning, leveraging Python, SQL, Docker, AWS, and Airflow to design data-driven solutions that directly impact business operations
+- Hold an M.Sc. in Data Science at the University of Surrey, with a foundation in Computer Science and Engineering and multiple professional certifications, including Docker, Databricks, SQL, and Power BI
+
+What I Offer 📊
+
+End-to-End Data Pipeline Automation:
+- Automated and optimized data workflows, improving acquisition efficiency by 50% and ensuring high data quality and integrity across diverse environments (MySQL, SQLite, SQLAlchemy, and Git versioning)
+
+Advanced ML & Deep Learning Solutions:
+- Built and deployed predictive and deep learning models (e.g., 90% accurate osteoarthritis detection using VGG16)
+- Specialized in NLP, including development of a transformer-based NER model achieving 91.88% F1 score for cybersecurity threat detection
+
+Cloud & DevOps Readiness:
+- Experienced in deploying scalable ML models and pipelines on AWS and using modern DevOps tools (Docker, Airflow, CI/CD workflows)
+
+Impactful Data Products:
+- Developed an AI-powered job search assistant and robust ETL pipelines for real-time analytics
+- Automated large-scale web scraping and sentiment analysis to generate valuable business insights
+
+Collaborative & Agile Mindset:
+- Proven ability to work seamlessly in fast-paced, cross-functional teams using agile methodologies and strong version control practices
+
+My Unique Value Proposition (USP) 👨🏻‍🎓
+
+Integrated Skill Set:
+- Bring together technical proficiency, business insight, and automation to deliver data products that maximize operational efficiency and strategic value
+
+Proven Results:
+- Demonstrated measurable impact (process speeds improved by 50%, predictive models exceeding industry benchmarks)
+
+Academic and Practical Rigor:
+- Blend of advanced academic research (M.Sc., transformative cybersecurity NLP projects) with real-world application across multiple industries and datasets
+
+Clear Communicator and Team Player:
+- Strong written/verbal communication, leadership through club founding and organizational roles, with a passion for mentoring and knowledge-sharing
 
 
 ## 🌐 Socials:
