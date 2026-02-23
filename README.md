@@ -56,7 +56,10 @@ I build scalable data pipelines and ML systems end-to-end — from raw data inge
 
 ## Featured Projects
 
-**[Prompt Enhancer](https://github.com/Pranava-Kailash/Prompt-Enhancer)** &nbsp;·&nbsp; *Chrome Extension*
+**[Financial Dashboard](https://github.com/Pranava-Kailash/Financial-Dashboard)** &nbsp;·&nbsp; *Data Engineering / Analytics*
+Real-time financial dashboard tracking NVIDIA (NVDA) stock performance with automated data pipelines, template-based market summaries, and technical analysis indicators.
+
+**[Prompt Enhancer](https://pranavakailash.me/prompt-enhancer)** &nbsp;·&nbsp; *Chrome Extension*
 On-device prompt enhancement using Google's Gemini Nano across ChatGPT, Gemini, and Perplexity. 100% local processing — no API keys, no data sent externally, zero latency from network calls.
 
 **[CyNER 2.0](https://github.com/Pranava-Kailash/CyNER_2.0_API)** &nbsp;·&nbsp; *NLP / Machine Learning*
