@@ -67,8 +67,8 @@ Named Entity Recognition system for cybersecurity text with 94% accuracy. Expose
 ## GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pranava-Kailash&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-Kailash&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Pranava-Kailash&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranava-Kailash&theme=default" />
 </p>
 
 ---
